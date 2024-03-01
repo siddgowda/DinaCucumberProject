@@ -33,6 +33,7 @@ public class OpenFacebookPage {
 
     }
 
+    //This is to close the browser
     @Then("Close the browser")
     public void close_the_browser() {
         driver.close();
