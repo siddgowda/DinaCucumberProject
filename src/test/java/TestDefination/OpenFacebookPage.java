@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class OpenFacebookPage {
 
+    //This is my Selenium Webdriver
     WebDriver driver;
 
     @Given("The browser is setup")
