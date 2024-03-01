@@ -26,6 +26,7 @@ public class OpenFacebookPage {
 
     }
 
+    //Added by siddu
     @Then("Validate the facebook page")
     public void validate_the_facebook_page() {
        String title =  driver.getTitle();
