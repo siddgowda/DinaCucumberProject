@@ -20,6 +20,7 @@ public class OpenFacebookPage {
 
     }
 
+//Added by dina
     @Given("Go to facebook page")
     public void go_to_facebook_page() {
         driver.get("https://de-de.facebook.com/");
